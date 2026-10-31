@@ -1,6 +1,8 @@
 Agar.io Clone
 =============
 
+> This repository (`agariobitecoin`) is an unmodified copy of [huytd/agar.io-clone](https://github.com/huytd/agar.io-clone), imported in a single commit. Despite the name, it contains no Bitcoin-related code. The upstream README follows.
+
 **CONTRIBUTOR WANTED: I'm really sorry for not have enough time to maintain this project. I'm looking for contributors who willing to keep this project going. If you feel happy to join. Please contact me via my Twitter: @huydotnet. Thank you so much!**
 
 [![GitHub Stars](https://img.shields.io/github/stars/huytd/agar.io-clone.svg)](https://github.com/huytd/agar.io-clone/stargazers)
